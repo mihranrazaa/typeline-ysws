@@ -4,12 +4,8 @@ layout: home
 
 hero:
   name: Typeline
-  text: An Hackclub <br>You Ship We Ship.
-  tagline: Turn your projects into guides, workshops, or books. Get rewarded with stuff like an eReader, Books and even more!. Join '#typeline' on Hack Club Slack to get started.
-  image:
-    alt: Typeline image
-    light: /home/cat-read.gif
-    dark: /home/erader.gif
+  text: You ship a technical guidebook<br>We ship an e-reader
+  tagline: Write a book on a topic that interests you, like "How to make a Discord bot in C". Get rewarded with stuff like an eReader, Books and more!. Join '#typeline' on Hack Club Slack to get started.
   actions:
     - theme: brand
       text: Get started
