@@ -24,8 +24,8 @@ const themeConfig: DefaultTheme.Config = {
   ],
 
   footer: {
-    message: '<a href="https://github.com/mihranrazaa/typeline-ysws" target="_blank">Typeline-website Source</a> <span class="divider">|</span> <a href="https://github.com/aniyomiorg/aniyomi-website">Base Project</a>',
-    copyright: ` ${new Date().getFullYear()} Typeline-YSWS`,
+    message: '<a href="https://github.com/mihranrazaa/typeline-ysws" target="_blank">Typeline-YSWS</a> <span class="divider">|</span> <a href="https://github.com/aniyomiorg/aniyomi-website">Base Project</a>',
+    copyright: ` ${new Date().getFullYear()} <a href="https://toolbox.hackclub.com/?category=YSWSs&query=">Hackclub</a>`,
   },
 
   editLink: {
