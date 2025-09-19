@@ -33,6 +33,8 @@ const themeConfig: DefaultTheme.Config = {
     text: 'Help us improve this page',
   },
 
+
+
   lastUpdated: {
     text: 'Last updated',
     formatOptions: {
